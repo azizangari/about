@@ -8,7 +8,7 @@
   <!-- Google Fonts: Lora -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;300&display=swap" rel="stylesheet">
 
  
 </head>
@@ -17,8 +17,7 @@
   </header>
 
   <main>
-
-    
+ 
 My name is Aziz Alangari
 
 I did content for Uber pre-IPO. I briefly worked in Hollywood as a production assistant. During my sophomore year of college, I followed my curiosity and purchased my first Bitcoin in 2016.
